@@ -46,8 +46,3 @@ Here are some ideas to get you started:
 <img align="center" alt="Android" width="32px" style="padding-right:10px;" src="https://developer.android.com/static/studio/images/new-studio-logo-1.png"/>
 <br />
 
-
-## <img align="center" alt="Language" width="46px" style="padding-right:6px;" src="https://camo.githubusercontent.com/9ad8cfe3215fff758ea74784f86ef0de25b6acfbd6a4fab19d9a13ff47b05843/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539343930383234322f6c6f676f5f636373776d652e737667"> Stats
-
-![redevrx GitHub stats](https://github-readme-stats.vercel.app/api?username=redevrx&show_icons=true&theme=transparent)
-
