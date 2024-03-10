@@ -41,8 +41,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Vue" width="32px" style="padding-right:10px;" src="https://vuejs.org/images/logo.png" />
 <img align="left" alt="NodeJS" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Golang" width="32px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_go_gopher_icon_130571.png" />
-<img align="center" alt="Flutter" width="32px" style="padding-right:10px;" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png"/>
-<img align="center" alt="Android" width="32px" style="padding-right:10px;" src="https://source.android.com/static/docs/setup/images/Android_symbol_green_RGB.png"/>
-
+<img align="left" alt="Flutter" width="32px" style="padding-right:10px;" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png"/>
+<img align="left" alt="Android" width="32px" style="padding-right:10px;" src="https://source.android.com/static/docs/setup/images/Android_symbol_green_RGB.png"/>
 <br />
 
